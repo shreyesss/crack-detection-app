@@ -14,6 +14,6 @@ Run the app
 ~~~
 wget https://drive.google.com/drive/folders/1rpx60r2-9UQ7RJvCgpZB5-ek2B_YKcki?usp=sharing
 pip install requirements.txt
-python app.py
+streamlit run app_test.py
 ~~~
 
