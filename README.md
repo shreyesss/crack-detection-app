@@ -6,9 +6,9 @@ https://drive.google.com/drive/folders/1rpx60r2-9UQ7RJvCgpZB5-ek2B_YKcki?usp=sha
 
 
 ## Instructions 
-1. Clone the repository \
-2. Download the checkpoints folder \
-3. Install the requirements \
+1. Clone the repository 
+2. Download the checkpoints folder 
+3. Install the requirements 
 4. Run the app using streamlit 
 
 ~~~
